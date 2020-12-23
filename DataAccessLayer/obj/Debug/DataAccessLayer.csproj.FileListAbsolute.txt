@@ -1,0 +1,18 @@
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\bin\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\bin\Debug\DTO.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\bin\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\bin\Debug\DTO.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

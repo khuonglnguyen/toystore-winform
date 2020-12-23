@@ -1,0 +1,10 @@
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DTO\bin\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DTO\bin\Debug\DTO.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DTO\obj\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DTO\obj\Debug\DTO.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DTO\bin\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DTO\bin\Debug\DTO.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DTO\obj\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DTO\obj\Debug\DTO.pdb
