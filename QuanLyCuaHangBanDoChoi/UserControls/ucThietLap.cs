@@ -21,6 +21,12 @@ namespace QuanLyCuaHangBanDoChoi.UserControls
         bool b = false;
         private void txtNhapLai_TextChanged(object sender, EventArgs e)
         {
+            if (txtNhapLai.Text == "")
+            {
+                lblNhapLai.Visible = false;
+                b = true;
+                return;
+            }
             if (txtMatKhauMoi.Text != txtNhapLai.Text)
             {
                 lblNhapLai.Visible = true;
@@ -78,6 +84,10 @@ namespace QuanLyCuaHangBanDoChoi.UserControls
 
         private void txtMatKhauMoi_TextChanged(object sender, EventArgs e)
         {
+            if (txtNhapLai.Text == "")
+            {
+                return;
+            }
             if (txtMatKhauMoi.Text != txtNhapLai.Text)
             {
                 lblNhapLai.Visible = true;
