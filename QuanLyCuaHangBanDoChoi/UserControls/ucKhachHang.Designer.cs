@@ -445,13 +445,13 @@
             this.panel7.Controls.Add(this.txtTenKH);
             this.panel7.Location = new System.Drawing.Point(17, 32);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(619, 32);
+            this.panel7.Size = new System.Drawing.Size(485, 32);
             this.panel7.TabIndex = 59;
             // 
             // pictureBox2
             // 
             this.pictureBox2.Image = global::QuanLyCuaHangBanDoChoi.Properties.Resources.icons8_search_24px;
-            this.pictureBox2.Location = new System.Drawing.Point(591, 5);
+            this.pictureBox2.Location = new System.Drawing.Point(451, 4);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(27, 22);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -477,9 +477,9 @@
             this.label7.ForeColor = System.Drawing.Color.Black;
             this.label7.Location = new System.Drawing.Point(14, 9);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(108, 20);
+            this.label7.Size = new System.Drawing.Size(123, 20);
             this.label7.TabIndex = 55;
-            this.label7.Text = "Tên nhân viên";
+            this.label7.Text = "Tên khách hàng";
             this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // panel5

@@ -192,12 +192,12 @@
             // 
             this.txtTenDangNhap.BackColor = System.Drawing.Color.White;
             this.txtTenDangNhap.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtTenDangNhap.Font = new System.Drawing.Font("UTM Avo", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTenDangNhap.ForeColor = System.Drawing.Color.Black;
+            this.txtTenDangNhap.Font = new System.Drawing.Font("UTM Avo", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTenDangNhap.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(8)))), ((int)(((byte)(133)))), ((int)(((byte)(204)))));
             this.txtTenDangNhap.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.txtTenDangNhap.Location = new System.Drawing.Point(45, 325);
             this.txtTenDangNhap.Name = "txtTenDangNhap";
-            this.txtTenDangNhap.Size = new System.Drawing.Size(528, 22);
+            this.txtTenDangNhap.Size = new System.Drawing.Size(528, 24);
             this.txtTenDangNhap.TabIndex = 0;
             this.txtTenDangNhap.WaterMark = "Nhập vào tên đăng nhập...";
             this.txtTenDangNhap.WaterMarkActiveForeColor = System.Drawing.Color.Black;
@@ -211,7 +211,7 @@
             this.txtMatKhau.BackColor = System.Drawing.Color.White;
             this.txtMatKhau.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtMatKhau.Font = new System.Drawing.Font("UTM Avo", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtMatKhau.ForeColor = System.Drawing.Color.Black;
+            this.txtMatKhau.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(8)))), ((int)(((byte)(133)))), ((int)(((byte)(204)))));
             this.txtMatKhau.Location = new System.Drawing.Point(44, 402);
             this.txtMatKhau.Name = "txtMatKhau";
             this.txtMatKhau.PasswordChar = '*';

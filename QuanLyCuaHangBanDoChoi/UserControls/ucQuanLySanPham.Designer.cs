@@ -889,7 +889,6 @@
             this.txtGiaBan.ReadOnly = true;
             this.txtGiaBan.Size = new System.Drawing.Size(191, 29);
             this.txtGiaBan.TabIndex = 14;
-            this.txtGiaBan.Click += new System.EventHandler(this.txtGiaBan_Click);
             this.txtGiaBan.TextChanged += new System.EventHandler(this.txtGiaBan_TextChanged);
             this.txtGiaBan.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtGiaBan_KeyPress);
             // 

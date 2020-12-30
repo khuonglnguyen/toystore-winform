@@ -284,7 +284,7 @@ namespace QuanLyCuaHangBanDoChoi.UserControls
             {
                 if (ctrl is TextBox)
                 {
-                    if (ctrl.Text == "" && ctrl.Name != "txtSoLuong")
+                    if (ctrl.Text == "" && ctrl.Name != "txtSoLuong" && ctrl.Name != "txtGiaBan")
                     {
                         ctrl.BackColor = Color.OrangeRed;
                         r = 1;
@@ -478,14 +478,6 @@ namespace QuanLyCuaHangBanDoChoi.UserControls
             if (txtTen.BackColor == Color.OrangeRed)
             {
                 txtTen.BackColor = Color.White;
-            }
-        }
-
-        private void txtGiaBan_Click(object sender, EventArgs e)
-        {
-            if (txtGiaBan.BackColor == Color.OrangeRed)
-            {
-                txtGiaBan.BackColor = Color.White;
             }
         }
 

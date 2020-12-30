@@ -20,3 +20,14 @@ E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\BusinessLogicLayer\obj\Debu
 E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
 E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\bin\Debug\DTO.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\bin\Debug\DTO.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

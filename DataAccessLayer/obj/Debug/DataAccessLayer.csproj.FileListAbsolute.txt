@@ -16,3 +16,12 @@ E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\D
 E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\bin\Debug\DTO.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\bin\Debug\DTO.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -8,3 +8,9 @@ E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DTO\bin\Debug\DTO.pdb
 E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DTO\obj\Debug\DTO.dll
 E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DTO\obj\Debug\DTO.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DTO\bin\Debug\DTO.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DTO\bin\Debug\DTO.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DTO\obj\Debug\DTO.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DTO\obj\Debug\DTO.pdb
